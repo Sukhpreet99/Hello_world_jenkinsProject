@@ -26,5 +26,6 @@ for i in range(1, 11):
    print(num, 'x', i, '=', num*i)
 
 
-a = 8 b=8
+a = 8 
+b=8
 print(a*b)
