@@ -12,7 +12,7 @@ print("Sukhpreet")
 print("Sukhpreet99")
 print("!22")
 print("Yes")
-print("Rajinder")
+print("Rajinder03")
 
 #  Multiplication table (from 1 to 10) in Python
 
